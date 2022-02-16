@@ -1,5 +1,5 @@
 print("hello world gore")
 
 
-def hi:
+def hi():
     print("hello world3 ")
